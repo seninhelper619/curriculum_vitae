@@ -57,6 +57,9 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Preloader
 --------------------------------------------------------------*/
+/*--------------------------------------------------------------
+# Preloader
+--------------------------------------------------------------*/
 #preloader {
   position: fixed;
   top: 0;
@@ -74,8 +77,7 @@ h1, h2, h3, h4, h5, h6 {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #4578F2;
-  border-top-color: #fff;
-  border-bottom-color: #fff;
+  border-top-color: white;
   border-radius: 50%;
   width: 60px;
   height: 60px;
